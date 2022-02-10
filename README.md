@@ -19,3 +19,5 @@ Basic Statistics in python
      5. maximum
      
   4. Range
+  5. IQR
+  6. QD
